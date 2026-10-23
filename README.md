@@ -8,12 +8,10 @@ TicketForge has no public API docs, so the integration is based on reverse
 engineering the web app. What I found is written up in
 [docs/API_NOTES.md](docs/API_NOTES.md).
 
-![Updating a ticket](docs/evidence/06-update-ticket.png)
-
 ## Features
 
 - **Setup wizard**: point the CLI at a server, log in to an existing account or
-  register a new one. Credentials are checked before anything is saved.
+  register a new one.
 - **Tickets**: list (with next/previous paging), view, create, update and delete.
 - **Board view**: all your tickets in one kanban-style table with a column per
   stage (`open`, `in_progress`, `review`, `closed`) and a count in each header.

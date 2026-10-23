@@ -1,0 +1,62 @@
+Password for roie-tester: 
+─────────────────── TicketForge · signed in as roie-tester · API quota 48/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: 7
+
+No custom fields defined yet.
+a add · r rename · d delete · Enter to go back: a
+Field name (letters, digits, underscores): priority
+Display label: Priority
+Added field 'priority'.
+Custom fields                 
+                              
+  Name       Label      Type  
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+  priority   Priority   text  
+                              
+a add · r rename · d delete · Enter to go back: a
+Field name (letters, digits, underscores): team
+Display label: Team
+Added field 'team'.
+Custom fields                 
+                              
+  Name       Label      Type  
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+  priority   Priority   text  
+  team       Team       text  
+                              
+a add · r rename · d delete · Enter to go back: r
+Field name [priority/team]: team
+New label for 'team': Owning team
+Renamed.
+Custom fields                    
+                                 
+  Name       Label         Type  
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+  priority   Priority      text  
+  team       Owning team   text  
+                                 
+a add · r rename · d delete · Enter to go back: 
+
+─────────────────── TicketForge · signed in as roie-tester · API quota 41/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: q
+Bye!

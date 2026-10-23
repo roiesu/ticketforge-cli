@@ -1,0 +1,47 @@
+Password for roie-tester: 
+─────────────────── TicketForge · signed in as roie-tester · API quota 49/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: 6
+
+Ticket to delete (e.g. TF-12, Enter to cancel): TF-564
+Delete TF-564 'Old test ticket - delete me'? This cannot be undone [y/n] (n): n
+
+─────────────────── TicketForge · signed in as roie-tester · API quota 48/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: 6
+
+Ticket to delete (e.g. TF-12, Enter to cancel): TF-564
+Delete TF-564 'Old test ticket - delete me'? This cannot be undone [y/n] (n): y
+Deleted TF-564.
+
+─────────────────── TicketForge · signed in as roie-tester · API quota 46/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: q
+Bye!

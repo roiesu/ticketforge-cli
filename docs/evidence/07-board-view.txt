@@ -1,0 +1,38 @@
+Password for roie-tester: 
+─────────────────── TicketForge · signed in as roie-tester · API quota 35/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: 2
+
+╭───────────────────────┬───────────────────────┬───────────────────────┬──────────────────────╮
+│ open (3)              │ in_progress (2)       │ review (1)            │ closed (1)           │
+├───────────────────────┼───────────────────────┼───────────────────────┼──────────────────────┤
+│ TF-568 Add colors to  │ TF-570 Roie testing   │ TF-569 Handle 429     │ TF-565 Set up CI for │
+│ the ticket table      │ the app end to e…     │ rate limit respons…   │ the CLI              │
+│ TF-566 Fix login      │ TF-567 Write README   │                       │                      │
+│ timeout on slow net…  │ with install ste…     │                       │                      │
+│ TF-564 Old test       │                       │                       │                      │
+│ ticket - delete me    │                       │                       │                      │
+╰───────────────────────┴───────────────────────┴───────────────────────┴──────────────────────╯
+
+─────────────────── TicketForge · signed in as roie-tester · API quota 33/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: q
+Bye!

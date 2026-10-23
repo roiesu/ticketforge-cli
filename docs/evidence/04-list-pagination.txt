@@ -1,0 +1,70 @@
+Password for roie-tester: 
+─────────────────── TicketForge · signed in as roie-tester · API quota 46/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: 1
+
+My tickets · page 1                                                                             
+                                                                                                
+  Ref      Title                      Stage         Description               Updated           
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+  TF-570   Roie testing the app end   open          Checking create, update   2026-10-23 11:18  
+           to end                                   and delete from…                            
+  TF-569   Handle 429 rate limit      review        Wait for Retry-After      2026-10-23 11:18  
+           responses                                and try again                               
+  TF-568   Add colors to the ticket   open                                    2026-10-23 11:17  
+           table                                                                                
+  TF-567   Write README with          in_progress   Installation, setup and   2026-10-23 11:18  
+           install steps                            a few examples                              
+  TF-566   Fix login timeout on       open                                    2026-10-23 11:17  
+           slow networks                                                                        
+                                                                                                
+n next · v <ref> view · Enter to go back: n
+My tickets · page 2                                                                             
+                                                                                                
+  Ref      Title                        Stage    Description                  Updated           
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+  TF-565   Set up CI for the CLI        closed   Run pytest on every push     2026-10-23 11:17  
+                                                 to main                                        
+  TF-564   Old test ticket - delete     open     Created while trying         2026-10-23 11:17  
+           me                                    things out                                     
+                                                                                                
+p previous · v <ref> view · Enter to go back: p
+My tickets · page 1                                                                             
+                                                                                                
+  Ref      Title                      Stage         Description               Updated           
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+  TF-570   Roie testing the app end   open          Checking create, update   2026-10-23 11:18  
+           to end                                   and delete from…                            
+  TF-569   Handle 429 rate limit      review        Wait for Retry-After      2026-10-23 11:18  
+           responses                                and try again                               
+  TF-568   Add colors to the ticket   open                                    2026-10-23 11:17  
+           table                                                                                
+  TF-567   Write README with          in_progress   Installation, setup and   2026-10-23 11:18  
+           install steps                            a few examples                              
+  TF-566   Fix login timeout on       open                                    2026-10-23 11:17  
+           slow networks                                                                        
+                                                                                                
+n next · v <ref> view · Enter to go back: 
+
+─────────────────── TicketForge · signed in as roie-tester · API quota 43/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: q
+Bye!

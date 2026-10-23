@@ -1,0 +1,17 @@
+$ python scripts/rate_limit_demo.py
+Password for roie-tester: 
+Sending 55 requests in a row (server limit is 50 per 60s)
+request 10 ok   quota 40/50
+request 20 ok   quota 30/50
+request 30 ok   quota 20/50
+request 40 ok   quota 10/50
+request 48 ok   quota 2/50
+request 49 ok   quota 1/50
+request 50 ok   quota 0/50
+  -> Rate limit reached - retrying in 36s...
+request 51 ok   quota 49/50
+request 52 ok   quota 48/50
+request 53 ok   quota 47/50
+request 54 ok   quota 46/50
+request 55 ok   quota 45/50
+All 55 requests succeeded in 64s

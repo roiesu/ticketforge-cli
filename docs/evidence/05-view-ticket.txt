@@ -1,0 +1,39 @@
+Password for roie-tester: 
+─────────────────── TicketForge · signed in as roie-tester · API quota 42/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: 3
+
+Ticket ref (e.g. TF-12, Enter to cancel): tf-570
+╭─ TF-570  Roie testing the app end to end ────────────────────────────────────────────────────╮
+│ Stage        open                                                                            │
+│ Description  Checking create, update and delete from the terminal                            │
+│ Depends on   TF-565                                                                          │
+│ Priority     high                                                                            │
+│ Owning team  Integrations                                                                    │
+│ Owner        roie-tester                                                                     │
+│ Created      2026-10-23 11:18                                                                │
+│ Updated      2026-10-23 11:18                                                                │
+╰──────────────────────────────────────────────────────────────────────────────────────────────╯
+
+─────────────────── TicketForge · signed in as roie-tester · API quota 40/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: q
+Bye!

@@ -1,0 +1,35 @@
+Password for roie-tester: 
+─────────────────── TicketForge · signed in as roie-tester · API quota 49/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: 4
+
+Title: Roie testing the app end to end
+Description (optional): Checking create, update and delete from the terminal
+Depends on, comma-separated refs (optional): 565
+Custom fields - press Enter to skip:
+  Priority: high
+  Owning team: Integrations
+Created TF-570 - Roie testing the app end to end
+
+─────────────────── TicketForge · signed in as roie-tester · API quota 47/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: q
+Bye!

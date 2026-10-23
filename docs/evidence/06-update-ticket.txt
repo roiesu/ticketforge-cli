@@ -1,0 +1,62 @@
+Password for roie-tester: 
+─────────────────── TicketForge · signed in as roie-tester · API quota 39/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: 5
+
+Ticket to update (e.g. TF-12, Enter to cancel): TF-570
+╭─ TF-570  Roie testing the app end to end ────────────────────────────────────────────────────╮
+│ Stage        open                                                                            │
+│ Description  Checking create, update and delete from the terminal                            │
+│ Depends on   TF-565                                                                          │
+│ Priority     high                                                                            │
+│ Owning team  Integrations                                                                    │
+│ Owner        roie-tester                                                                     │
+│ Created      2026-10-23 11:18                                                                │
+│ Updated      2026-10-23 11:18                                                                │
+╰──────────────────────────────────────────────────────────────────────────────────────────────╯
+Press Enter to keep a value, or '-' to clear it.
+Title (Roie testing the app end to end): 
+Description (Checking create, update and delete from the termi…): 
+Stage [open/in_progress/review/closed] (open): in_progress
+Depends on (TF-565): 
+  Priority (high): medium
+  Owning team (Integrations): 
+
+Changes:
+  Stage: open → in_progress
+  Priority: high → medium
+Save these changes? [y/n] (y): y
+Updated TF-570.
+╭─ TF-570  Roie testing the app end to end ────────────────────────────────────────────────────╮
+│ Stage        in_progress                                                                     │
+│ Description  Checking create, update and delete from the terminal                            │
+│ Depends on   TF-565                                                                          │
+│ Priority     medium                                                                          │
+│ Owning team  Integrations                                                                    │
+│ Owner        roie-tester                                                                     │
+│ Created      2026-10-23 11:18                                                                │
+│ Updated      2026-10-23 11:19                                                                │
+╰──────────────────────────────────────────────────────────────────────────────────────────────╯
+
+─────────────────── TicketForge · signed in as roie-tester · API quota 36/50 ───────────────────
+  1  List my tickets
+  2  Board view (tickets by stage)
+  3  View a ticket
+  4  Create a ticket
+  5  Update a ticket
+  6  Delete a ticket
+  7  Manage custom fields
+  8  Settings (run setup again)
+  q  Quit
+
+Choose: q
+Bye!
